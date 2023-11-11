@@ -1,2 +1,4 @@
-# TFIS-GOL
-Game of Life on lights!
+# TFIS-Lights
+Lights display for the TFIS
+
+## Coming Soon...
